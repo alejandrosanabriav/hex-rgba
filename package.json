@@ -1,0 +1,28 @@
+{
+  "name": "hex-rgba",
+  "version": "1.0.0",
+  "description": "Convert HEX to RGBA",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developersoul/hex-rgba.git"
+  },
+  "keywords": [
+    "hex",
+    "rgba",
+    "convert",
+    "colors"
+  ],
+  "author": "Alejandro Sanabria <alesanabriav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developersoul/hex-rgba/issues"
+  },
+  "homepage": "https://github.com/developersoul/hex-rgba#readme",
+  "devDependencies": {
+    "chai": "^3.0.0"
+  }
+}
