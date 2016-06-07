@@ -16,3 +16,7 @@ Convert HEX to RGBA
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/developersoul/hex-rgba/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sanabriav/hex-rgba/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
