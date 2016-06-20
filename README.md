@@ -1,4 +1,5 @@
 # HEX to RGBA
+[![npm](https://img.shields.io/npm/dm/localeval.svg?maxAge=2592000)](https://www.npmjs.com/package/hex-rgba)
 
 Convert HEX to RGBA
 
@@ -13,10 +14,4 @@ Convert HEX to RGBA
     var rgba = hexToRgba('#1B2B34', 40);
     // rgba return rgba(27, 43, 52, 0.4)
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/developersoul/hex-rgba/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sanabriav/hex-rgba/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
