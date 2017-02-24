@@ -1,5 +1,4 @@
 # HEX to RGBA
-[![npm](https://img.shields.io/npm/dm/localeval.svg?maxAge=2592000)](https://www.npmjs.com/package/hex-rgba)
 
 Convert HEX to RGBA
 
