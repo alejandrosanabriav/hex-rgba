@@ -1,6 +1,5 @@
-# HEX to RGBA
+# HEX to RGBA [![Build Status](https://travis-ci.org/developersoul/hex-rgba.svg?branch=master)](https://travis-ci.org/developersoul/hex-rgba)
 
-[![Build Status](https://travis-ci.org/developersoul/hex-rgba.svg?branch=master)](https://travis-ci.org/developersoul/hex-rgba)
 Convert HEX to RGBA
 
 ## Installation
