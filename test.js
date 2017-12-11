@@ -12,4 +12,9 @@ describe('hex to rgba', function() {
     var rgba = hexToRgba('#1B2B34', 40);
     expect(rgba).to.equal('rgba(27, 43, 52, 0.4)');
   });
+
+  it('should return white rgba with short hex param', function() {
+    var rgba = hexToRgba('#FFF');
+    expect(rgba).to.equal('rgba(255, 255, 255, 1)');
+  })
 });
