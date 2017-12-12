@@ -1,7 +1,7 @@
 'use strict';
 
 function hexToRgba(hex, opacity){
-  var opacity = isNan(opacity) ? 100 : opacity;
+  var opacity = isNaN(opacity) ? 100 : opacity;
   var hex = hex.replace('#', '');
   if(hex.length === 6) {
     var r = parseInt(hex.substring(0, 2), 16);
